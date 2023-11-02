@@ -1,6 +1,6 @@
-# realistic-vision-v5-inpainting Cog model
+# absolutereality-v1.8.1-inpainting Cog model
 
-This is an implementation of inpainting using the model [SG161222/Realistic_Vision_V5.0_noVAE](https://huggingface.co/SG161222/Realistic_Vision_V5.0_noVAE) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
+This is an implementation of inpainting using the model [eqawqw/absolutereality_v181INPAINTING]([https://huggingface.co/SG161222/Realistic_Vision_V5.0_noVAE](https://huggingface.co/eqawqw/absolutereality_v181INPAINTING/blob/main/absolutereality_v181INPAINTING.safetensors)) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 First, download the pre-trained weights:
 
